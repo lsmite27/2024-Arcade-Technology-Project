@@ -1,0 +1,4 @@
+namespace projectImages {
+    //% fixedInstance
+    export const pixilframe0 = image.ofBuffer(hex`e410100000000000f000000000000000ef0ff0ffff00fff0cffffffcefffccbfcccfccfcbfccccbfccccccfcbfcbc5ccccccffffcfcbc5bcccfc0000cfcbcccccbfc0f00cfcc8cc8ccccffffffcf88cc88cccefc00ffcc8cc8ceecfc00f0cfffccffffff0000ff0fff000f0000000000f000000000000000000000000000000000000000`);
+}
